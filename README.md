@@ -18,7 +18,9 @@ I've been working as a Nuclear Power Plant Personnel Training Enginner, particip
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.791424425.2396/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="36" height="36" alt="Maven" /></a>
 </p>
 
 ### Socials

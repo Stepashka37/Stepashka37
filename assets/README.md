@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/Stepashka37/Stepashka37/blob/main/assets/header.png)
 
 About me
 

@@ -1,8 +1,9 @@
-Hi 👋 My name is Dmitry!
-========================
+![Header](https://github.com/Stepashka37/Stepashka37/blob/main/assets/header.png)
 
-Java Backend Developer
-----------------------
+<h1 align="center">Hello world, my name is Dmitry</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Java Backend Developer</h3>
+
 
 I've been working as a Nuclear Power Plant Personnel Training Enginner, participating international projects in Hungary and Egypt for 3 years, then I decided to switch my career to software engineering, and that was the moment when I fell in love with Java! So, now I'm into backend development and I feel really passionate about it!
 

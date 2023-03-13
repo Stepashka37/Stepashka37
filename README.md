@@ -28,6 +28,6 @@ I've been working as a Nuclear Power Plant Personnel Training Enginner, particip
 ### Socials
 
 <p align="left"> 
-  <a href="https://vk.com/id99703878" target="_blank" rel="noreferrer"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7257b244913357.582202408a049.jpg" width="32" height="32" /></a>
+  <a href="https://vk.com/id99703878" target="_blank" rel="noreferrer"><img src="https://www.kindpng.com/picc/m/766-7662056_vk-logo-png-transparent-png.png" width="32" height="32" /></a>
   <a href="https://t.me/@dimamaks37" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="32" height="32" /></a>
   <a href="https://www.github.com/Stepashka37" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>

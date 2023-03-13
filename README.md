@@ -21,9 +21,13 @@ I've been working as a Nuclear Power Plant Personnel Training Enginner, particip
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://lmsdo.rea.ru/pluginfile.php/25043/course/overviewfiles/spring_beecoder.org-3.png" width="36" height="36" alt="Spring Framework" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.791424425.2396/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="36" height="36" alt="Maven" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://hackthestuff.com/uploads/subCategories/logo-git.png" width="36" height="36" alt="Git" /></a>
   
 </p>
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Stepashka37" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://vk.com/id99703878" target="_blank" rel="noreferrer"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7257b244913357.582202408a049.jpg" width="32" height="32" /></a></p>
+  <a href="https://t.me/@dimamaks37" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="32" height="32" /></a></p>
+  <a href="https://www.github.com/Stepashka37" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>

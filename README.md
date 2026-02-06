@@ -7,13 +7,6 @@
 
 I've been working as a Nuclear Power Plant Personnel Training Enginner, participating international projects in Hungary and Egypt for 3 years, then I decided to switch my career to software engineering, and that was the moment when I fell in love with Java! So, now I'm into backend development and I feel really passionate about it!
 
-* 🌍  I'm based in Saint-Petersburg
-* ✉️  You can contact me at [dimax38rus@mail.ru](mailto:dimax38rus@mail.ru)
-* 🚀  I'm currently working on [Filmorate Application](http://github.com/Stepashka37/java-filmorate)
-* 🧠  I'm learning Spring Framework and SQL
-* 🤝  I'm open to collaborating on full-stack projects
-* ⚡  Discipline >> motivation
-
 ### Skills
 
 <p align="left">
